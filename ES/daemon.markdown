@@ -11,7 +11,6 @@ Realizan operaciones críticas para el correcto funcionamiento de la herramienta
 
 Una línea adicional.
 
-
 * Ejecución de steps.
 * Procesamiento de eventos.
     - [Notificaciones](admin/notifications).
