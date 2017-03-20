@@ -9,13 +9,14 @@ En Clarive, los demonios son especiales, los procesos independientes los inicia 
 
 Realizan operaciones críticas para el correcto funcionamiento de la herramienta. Entre las funciones que poseen destacan:
 
-sdfdfdf
 
 * Ejecución de pasos.
 * Procesamiento de eventos.
     - [Notificaciones](admin/notifications).
     - Ejecuciones [planificadas](admin/scheduler).
     - Control de semáforos.
+
+   fefefefefef 
 
 Para poder ver y administrar los demonios es necesario tener permisos de Administración. A la lista de demonios se accede a través del menú de Administración - <img src="/static/images/icons/daemon.svg" /> Demonios
 
