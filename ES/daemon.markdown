@@ -9,7 +9,7 @@ En Clarive, los demonios son especiales, los procesos independientes los inicia 
 
 Realizan operaciones críticas para el correcto funcionamiento de la herramienta. Entre las funciones que poseen destacan:
 
-A
+B
 
 * Ejecución de pases.
 * Procesamiento de eventos.
